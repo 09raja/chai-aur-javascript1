@@ -10,3 +10,4 @@ let State;
 // null => standalone value
 // undefined => 
 // symbol => unique
+console.log(typeof isLoggedIn);
